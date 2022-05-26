@@ -13,5 +13,5 @@ body: 'ʙʏ ᴛʜᴇ ᴍʏsᴛᴄ ﹣ ʙᴏᴛ',
 previewType: 0, thumbnail: fs.readFileSync("./Menu2.jpg"),
 sourceUrl: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`}}})   
 }
-handler.command = /^(jadibot|serbot|bots|subbots|getcode)/i
+handler.command = /NADIEPUEDESERSUBBOT/i
 export default handler
