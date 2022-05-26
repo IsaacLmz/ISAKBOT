@@ -17,5 +17,5 @@ conn.reply(m.chat, `Lo sentimos, la busqueda no está disponible. Por favor escr
 }}
 handler.help = ['kpop'].map(v => v + ' <query>')
 handler.tags = ['image']
-handler.command = /^(kpop)$/i
+handler.command = /NOQUIERO/i
 export default handler
