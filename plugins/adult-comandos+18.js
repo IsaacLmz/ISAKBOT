@@ -50,12 +50,12 @@ let json = res.data
 let url = json.url
 conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)} 
 if (command == 'furro') {
-let res = await axios("https://meme-api.herokuapp.com/gimme/Furryporn")
+let res = await axios("https://meme-api.herokuapp.com/gimme/")
 let json = res.data
 let url = json.url
 conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)} 
 if (command == 'trapito') {
-let res = await axios("https://api.waifu.pics/nsfw/trap")
+let res = await axios("https://api.waifu.pics/")
 let json = res.data
 let url = json.url
 conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)} 
@@ -70,7 +70,7 @@ let json = res.data
 let url = json.url
 conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
 if (command == 'pene') {
-let res = await axios("https://meme-api.herokuapp.com/gimme/penis")
+let res = await axios("https://meme-api.herokuapp.com/gimme/")
 let json = res.data
 let url = json.url
 conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
@@ -80,7 +80,7 @@ let json = res.data
 let url = json.url
 conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
 if (command == 'porno2') {
-let res = await axios("https://meme-api.herokuapp.com/gimme/porngif")
+let res = await axios("https://meme-api.herokuapp.com/gimme/")
 let json = res.data
 let url = json.url
 conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
@@ -95,12 +95,12 @@ let json = res.data
 let url = json.url
 conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
 if (command == 'yaoi') {
-let res = await axios("https://meme-api.herokuapp.com/gimme/yaoigif")
+let res = await axios("https://meme-api.herokuapp.com/gimme/")
 let json = res.data
 let url = json.url
 conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
 if (command == 'yaoi2') {
-let res = await axios("https://meme-api.herokuapp.com/gimme/yaoi")
+let res = await axios("https://meme-api.herokuapp.com/gimme/")
 let json = res.data
 let url = json.url
 conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
