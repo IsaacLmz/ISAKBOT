@@ -57,7 +57,7 @@ conn.reply(m.chat, doxeo, m)
 }
 handler.help = ['doxear <nombre> | <@tag>']
 handler.tags = ['fun']
-handler.command = /^Doxxeo|doxxeo|doxxear|Doxxear|doxeo|doxear|doxxeame|doxeame/i
+handler.command = /^NOQUIERODOXEAR/i
 export default handler
 
 function pickRandom(list) {
