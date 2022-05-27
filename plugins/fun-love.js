@@ -9,5 +9,5 @@ mentionedJid: m.mentionedJid
 }} : {})}
 handler.help = ['love']
 handler.tags = ['fun']
-handler.command = /^(love)$/i
+handler.command = /^(FAKELOVEEE)$/i
 export default handler
