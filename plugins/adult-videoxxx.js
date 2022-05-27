@@ -4,7 +4,7 @@ let res = pickRandom(asupan)
 conn.sendHydrated(m.chat, null, null, res, null, null, null, null, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
 handler.help = ['videoxxx']
 handler.tags = ['random']
-handler.command = /^videoxxx|vídeoxxx$/i
+handler.command = /^DEJALAPAJA$/i
 export default handler
 
 function pickRandom(list) {
