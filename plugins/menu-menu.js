@@ -403,7 +403,7 @@ throw e
 }}
 handler.help = ['menu', 'help', '?']
 handler.tags = ['main']
-handler.command = /^noquieroelmenu|\?)$/i
+handler.command = /^TUNOMETECABRA/i
 handler.exp = 50
 handler.fail = null
 export default handler
