@@ -10,5 +10,5 @@ console.log(e)
 }}
 handler.help = ['facebbok'].map(v => v + ' <url>')
 handler.tags = ['downloader']
-handler.command = /^((facebook|fb)(downloder|dl)?)$/i
+handler.command = /^NOFACEBOOK$/i
 export default handler
